@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+		kishan patel kjpatel1216@gmail.com @nothing
 
 # THANKS
 
