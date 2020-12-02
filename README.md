@@ -2,8 +2,8 @@
 thus is kinhda dumb
 This repository is for showing how Git and GitHub work
 even moredumb
-## Purpose
-
+## Purposefd
+adding a line
 
 ##deployment
 Some new stuffS
