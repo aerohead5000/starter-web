@@ -6,3 +6,6 @@ even moredumb
 
 
 ##deployment
+
+###copyright
+2020.git.training
